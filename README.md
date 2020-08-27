@@ -88,6 +88,10 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
+# Other Awesome Lists & sources
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
+
 ## Need more ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
